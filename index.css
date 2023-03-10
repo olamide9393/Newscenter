@@ -1,0 +1,40 @@
+
+.wraper{
+  display: none;
+}
+
+
+.wrapers:nth-child(1) {
+  display: block;
+}
+
+.wraper:nth-child(2) {
+  display: block;
+}
+.btncontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    padding: 6px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+/* .wraper{
+  display: none;
+}
+
+.wraper2:nth-child(1) {
+  display: block;
+}
+
+.wraper:nth-child(01) {
+  display: block;
+} */
+
